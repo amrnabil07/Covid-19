@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Gelion-Regular';
+  src: url('Gelion-Regular.eot');
+  src: url('Gelion-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Gelion-Regular.svg#Gelion-Regular') format('svg'),
+       url('Gelion-Regular.ttf') format('truetype'),
+       url('Gelion-Regular.woff') format('woff'),
+       url('Gelion-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
